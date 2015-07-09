@@ -1,4 +1,4 @@
-Crack the hash
+Deprecated, use [new, faster version](https://github.com/Scthe/opencl-hash)
 ==============
 
 
